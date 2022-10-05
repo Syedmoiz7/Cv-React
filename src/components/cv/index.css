@@ -1,0 +1,12 @@
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    margin-left: 50px;
+}
+
+li {
+    margin: 10px;
+}
